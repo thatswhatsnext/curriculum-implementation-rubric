@@ -2,7 +2,7 @@
   "name": "rubric-app-styled-v8",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thatswhatsnext.github.io/curriculum-implementation-rubric",
+  "homepage": "https://cirubric.thatswhatsnext.au",
   "dependencies": {
     "easymde": "^2.18.0",
     "jspdf": "^2.5.1",
